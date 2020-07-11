@@ -10,10 +10,12 @@ Following packages are to be installed using pip.
 # Note :
 The sender (sender mail id) should make sure that the following services are on, so as to provide the
 permissions to script to send mail.
+
     - Less secure apps - On
     - Sender Mail address & Password are required
 
 Alternative:
+
     - Enable 2-Step verification to the Sender's Google Account so the user can setup App passwords
     - Select 'MAIL' as type of application and 'Windows Computer' as type of device.
     - Above steps will generate an alternative password which would give permission to script only to
