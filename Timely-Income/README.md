@@ -36,5 +36,6 @@ I'll bet that this week you can code something up that will take these text file
     
 ## Command and Requirements:
     Note: CSV module comes by default with python, else just install with the command pip3 install python3-csv
-    python3 program.py
+    Run with command : python3 program.py
+    This will generate 3 csv files namely, Revenue-Yearly.csv, Revenue-Monthly.csv, Revenue-Weekly.csv based on above requirements.
     
