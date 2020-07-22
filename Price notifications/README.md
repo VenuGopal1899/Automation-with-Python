@@ -7,7 +7,7 @@ Following packages are to be installed using pip.
     - beautifulsoup4
     - requests
 
-# Note :
+## Note :
 The sender (sender mail id) should make sure that the following services are on, so as to provide the
 permissions to script to send mail.
 
